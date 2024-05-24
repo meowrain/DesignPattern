@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/creator_pattern/factory_method/factory_method.iml" filepath="$PROJECT_DIR$/creator_pattern/factory_method/factory_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/creator_pattern/prototype_pattern/prototype_pattern.iml" filepath="$PROJECT_DIR$/creator_pattern/prototype_pattern/prototype_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" filepath="$PROJECT_DIR$/proxy_pattern/proxy_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/creator_pattern/singleton_pattern/singleton_pattern.iml" filepath="$PROJECT_DIR$/creator_pattern/singleton_pattern/singleton_pattern.iml" />
     </modules>
   </component>
