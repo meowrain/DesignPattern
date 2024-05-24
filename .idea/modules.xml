@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/abstract_factory/abstract_factory.iml" filepath="$PROJECT_DIR$/abstract_factory/abstract_factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/builder_pattern/builder_pattern.iml" filepath="$PROJECT_DIR$/builder_pattern/builder_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator_pattern/abstract_factory/abstract_factory.iml" filepath="$PROJECT_DIR$/creator_pattern/abstract_factory/abstract_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure_pattern/adapter_pattern/adapter_pattern.iml" filepath="$PROJECT_DIR$/structure_pattern/adapter_pattern/adapter_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure_pattern/bridge_pattern/bridge_pattern.iml" filepath="$PROJECT_DIR$/structure_pattern/bridge_pattern/bridge_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator_pattern/builder_pattern/builder_pattern.iml" filepath="$PROJECT_DIR$/creator_pattern/builder_pattern/builder_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure_pattern/decorator_pattern/decorator_pattern.iml" filepath="$PROJECT_DIR$/structure_pattern/decorator_pattern/decorator_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/factory_method/factory_method.iml" filepath="$PROJECT_DIR$/factory_method/factory_method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/prototype_pattern/prototype_pattern.iml" filepath="$PROJECT_DIR$/prototype_pattern/prototype_pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" filepath="$PROJECT_DIR$/singleton_pattern/singleton_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator_pattern/factory_method/factory_method.iml" filepath="$PROJECT_DIR$/creator_pattern/factory_method/factory_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator_pattern/prototype_pattern/prototype_pattern.iml" filepath="$PROJECT_DIR$/creator_pattern/prototype_pattern/prototype_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creator_pattern/singleton_pattern/singleton_pattern.iml" filepath="$PROJECT_DIR$/creator_pattern/singleton_pattern/singleton_pattern.iml" />
     </modules>
   </component>
 </project>
